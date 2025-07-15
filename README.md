@@ -22,7 +22,7 @@ A FastAPI-based backend service for managing images with geolocation data using 
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/smart-image-gallery.git](https://github.com/dhrptl1612/smart-image-db.git)
+git clone https://github.com/dhrptl1612/smart-image-db.git
 cd smart-image-gallery
 ```
 
